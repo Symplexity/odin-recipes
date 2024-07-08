@@ -1,0 +1,15 @@
+body {
+    font-family: "Courier New", monospace;
+    background-color: black;
+    color: white;
+    font-size: larger;
+}
+
+.main-page {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
